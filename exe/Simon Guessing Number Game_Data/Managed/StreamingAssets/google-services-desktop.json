@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1062262683716",
+    "firebase_url": "https://simon-s-rtcg-game-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "simon-s-rtcg-game",
+    "storage_bucket": "simon-s-rtcg-game.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062262683716:android:3dd0029a5919e1739ba411",
+        "android_client_info": {
+          "package_name": "com.Simon_RTCG_Game.FireBaseDB"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062262683716-ikqsqmsb72rlicn8b839tu57jc7n7f53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmj6suRGnxJ06UHKov43qTxxqkb9sNSvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062262683716-ikqsqmsb72rlicn8b839tu57jc7n7f53.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
